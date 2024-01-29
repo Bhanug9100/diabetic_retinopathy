@@ -57,6 +57,5 @@ Based on the survey conducted, numerous methods have been devised to predict dif
 
 Contact Details:
 Members: BHAVANI SHANKAR[1JB19CS050] , NANDAGANESH[1JB19EC058]. STUDENTS OF SJBIT,DEPT OF CCE, SJBIT, BANGALORE.
-Guide: Dr. SUPREETH H S G ,ASSOCIATE PROFESSOR,DEPT OF ECE, SJBIT,BANGALORE
-Ph No: +917760866266 
+Ph No: +919100585589 
 E-mail: gampabhavanishankar@gmail.com
